@@ -1,0 +1,23 @@
+ img{
+
+    margin-right: 70px;
+} 
+li{
+    font-size: large;
+    /* margin-block-start:px */
+    margin: 5px;
+}
+nav{
+    border-style: ridge;
+    border-width: 0.5px;
+}
+.btn{
+    border-style: solid;
+    border-color: skyblue;
+    border-width: 2px;  
+    padding: 3px;
+    margin: 5px;   
+    color: skyblue; 
+}
+
+  
